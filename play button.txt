@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class SC_MainMenu : MonoBehaviour
+{
+    public GameObject MainMenu;
+
+    void Start()
+    {
+        MainMenuButton();
+    }
+
+    public void PlayNowButton()
+    {
+       
+        UnityEngine.SceneManagement.SceneManager.LoadScene("GameLevel");
+    }
