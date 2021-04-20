@@ -1,0 +1,43 @@
+<html>
+<title></title>
+<head>
+<h1 style="background-color:pink;text-align:center;">FRUIT NINJA<h1>
+<body>
+<h2> *EXECUTIVE SUMMARY</h2>
+<p>Fruit Ninja is a simple game of slicing fruit. Holding the device sideways, players use their fingers to slice the pieces of fruit that jump into the screen. As the game progresses, more and more fruit come onto the screen, and players can slice multiple fruit at once to score combos. If a piece of fruit falls off the screen without being sliced however, the player earns an “X,” and if this happens two times the game is over. Also, bombs eventually appear on the screen, and if players slice those by accident they will also earn a game over screen. The goal is to rack up as many points as possible, while more and more fruit and bombs clutter the screen.
+</p>
+<h2>Target audience</h2>
+<p>our target audience is mostly childern because of game sipmlplist feaatures.people more than age 4 can also play this game to seek enjoyment.</p>
+<h2> Project scope</h2>
+<p>This Game is Good for Kids Who Need Help With:Self-Control .Controlling their actions and emotions. Improving impulse control.</p>
+<h2> Genre</h2>
+<p> basically this game is action(Arcade type) related game . In this game player starts a game  with simple levels but when he passses the levels the levels become difficult for him .</p>
+<h2> *GAME PLAY</h2>
+<h2>Objective</h2>
+This game helps kids practice their self control skills. While it may be tempting to slice the object right when they enter the screen, the game offers much incentive to avoid this knee-jerk reaction. Firstly, bombs are thrown up to fake players out, and if the don't use their inhibit their actions to keep their slices in check, they can easily earn a game over screen. The other reason its a good idea to not slice mindlessly is that if you cut multiple pieces of fruit at once, you score even more points than if you slice them individually. This entails waiting for just the right moment to slice the fruit when they are lined all up.</p>
+<h2>Game proressions</h2>
+<p>In fruit ninja game player lost his life when  he cuts bomb . A player gain points when they cut three fruits continously due to this continuity they gain more points .
+<h2>in game GUI</h2>
+<p> to display the  game scores we shall use the Unity GUI text  and an imported 2d model.</p>
+<h2>*MECHANICS</h2>
+<h2> Rules</h2>
+<p>In this game rules are very simple a player has 2  lives  these two  lives ended when a player cuts bomb  .when  a player cuts the fruit sluice they gain points and when they cut bom they loses life.</p>
+<h2>Physics</h2>
+<p>in this game the fruit slicing are moving up and down  and this is moving due to th velocity.
+<h2>*GAME ELEMENT</h2>
+<h2>Story</h2>
+<p> In this game  the player must slice fruit that is thrown into the air by swiping the device touch screen with their fingers .It features multiple  gameplay mode.
+<h2>Characters</h2>
+<p>different fruits like(apple, melon etc)</p>
+<h2>Levels</h2>
+<p> In this games levels depends upon the  scores of the player as the scores increases the palyer moves to the next levels. As they  loses  points they lost the game.</p>
+<h2>* ASSESTS</h2>
+<h2>Music</h2>
+<p>in this game different music is added  at the menu  page.</p>
+<h2>Sound effects</h2>
+<p> different sound affects are added  in this game when a fruit is cut a sound plays. These sound effects tell that a fruit is cut or missed .</p>
+<h2> 2D/3D models</h2>
+<p>  we are modeling this game on 2d mode.</p>
+
+
+</html> 
